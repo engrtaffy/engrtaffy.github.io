@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 2rem auto;
+  line-height: 1.6;
+  padding: 0 1rem;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+.contact a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #0066cc;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
